@@ -51,43 +51,79 @@ About
 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,vite,tailwind,fastapi,supabase,postgres,git,github,docker,linux&theme=dark" />
+<sub><b>LANGUAGES</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts&theme=dark"/>
+
 <br/><br/>
 
-<img src="https://img.shields.io/badge/RAG_Pipelines-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
-<img src="https://img.shields.io/badge/sentence--transformers-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
+<sub><b>AI / ML</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
 <img src="https://img.shields.io/badge/Groq-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
-<img src="https://img.shields.io/badge/Zustand-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
-<img src="https://img.shields.io/badge/GitPython-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
+<img src="https://img.shields.io/badge/RAG-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
+<img src="https://img.shields.io/badge/sentence--transformers-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
+
+<br/><br/>
+
+<sub><b>BACKEND & DATA</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres&theme=dark"/>
 <img src="https://img.shields.io/badge/pgvector-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
+
+<br/><br/>
+
+<sub><b>FRONTEND</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+<img src="https://img.shields.io/badge/Zustand-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
+
+<br/><br/>
+
+<sub><b>TOOLS</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/GitPython-1a1b27?style=flat-square&labelColor=1a1b27&color=8B85FF"/>
+
 </div>
 <br/>
-Experience
+Education & Experience
 
-<table width="100%">
+<table>
 <tr>
-<th align="left">Role</th>
-<th align="left">Organization</th>
-<th align="left">Status</th>
-<th align="left">Focus</th>
+<td width="15%" align="center"><b>2024–2028</b></td>
+<td width="5%" align="center">🎓</td>
+<td>
+<b>B.Tech, Computer Science (AI & ML)</b><br/>
+PES University, RR Campus · <img src="https://img.shields.io/badge/Ongoing-2ea043?style=flat-square"/>
+</td>
 </tr>
+<tr><td colspan="3"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td><b>R&D Member</b></td>
-<td>PI Labs, PES University</td>
-<td><img src="https://img.shields.io/badge/Completed-6e7681?style=flat-square"/></td>
-<td>Built <b>Socratic Mirror</b> — escalates questions across cognitive-depth levels instead of giving direct answers</td>
+<td width="15%" align="center"><b>Ongoing</b></td>
+<td width="5%" align="center">🔬</td>
+<td>
+<b>Summer Intern — BSERC (ISRO)</b><br/>
+Software / AI Engineering · <img src="https://img.shields.io/badge/Ongoing-2ea043?style=flat-square"/>
+</td>
 </tr>
+<tr><td colspan="3"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td><b>Summer Intern</b></td>
-<td>BSERC (ISRO)</td>
-<td><img src="https://img.shields.io/badge/Ongoing-2ea043?style=flat-square"/></td>
-<td>Software / AI Engineering</td>
+<td width="15%" align="center"><b>Completed</b></td>
+<td width="5%" align="center">🪞</td>
+<td>
+<b>R&D Member — PI Labs, PESU</b><br/>
+Built <b>Socratic Mirror</b>, an LLM-powered Socratic tutoring platform · <img src="https://img.shields.io/badge/Completed-6e7681?style=flat-square"/>
+</td>
 </tr>
+<tr><td colspan="3"><sub>&nbsp;</sub></td></tr>
 <tr>
-<td><b>R&D Intern</b></td>
-<td>Decode Labs</td>
-<td><img src="https://img.shields.io/badge/Completed-6e7681?style=flat-square"/></td>
-<td>Generative AI — AI/Software Engineering</td>
+<td width="15%" align="center"><b>Completed</b></td>
+<td width="5%" align="center">⚡</td>
+<td>
+<b>R&D Intern — Decode Labs</b><br/>
+Generative AI — AI/Software Engineering · <img src="https://img.shields.io/badge/Completed-6e7681?style=flat-square"/>
+</td>
 </tr>
 </table>
 <br/>
