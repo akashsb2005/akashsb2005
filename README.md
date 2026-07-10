@@ -8,13 +8,30 @@
 <a href="https://leetcode.com/u/akashsb2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/akashsb2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PES_University-CSE_(AI%26ML)_%E2%80%A2_2024--2028-8B85FF?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Reliance_Foundation_Scholar-8B85FF?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/FFE_Scholar-8B85FF?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/200%2B_LeetCode_Solved-8B85FF?style=flat-square&labelColor=1a1b27"/>
 </div>
+<br/>
+Highlights
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+🎓<br/><b>PES University</b><br/><sub>CSE (AI & ML) · 2024–2028</sub>
+
+</td>
+<td align="center" width="25%">
+🏅<br/><b>Reliance Foundation</b><br/><sub>Scholar</sub>
+
+</td>
+<td align="center" width="25%">
+🏅<br/><b>FFE</b><br/><sub>Scholar</sub>
+
+</td>
+<td align="center" width="25%">
+🧩<br/><b>200+ Problems</b><br/><sub>Solved on LeetCode</sub>
+
+</td>
+</tr>
+</table>
 <br/>
 About
 
@@ -57,8 +74,8 @@ Experience
 <tr>
 <td><b>R&D Member</b></td>
 <td>PI Labs, PES University</td>
-<td><img src="https://img.shields.io/badge/Ongoing-2ea043?style=flat-square"/></td>
-<td>Building <b>Socratic Mirror</b> — escalates questions across cognitive-depth levels instead of giving direct answers</td>
+<td><img src="https://img.shields.io/badge/Completed-6e7681?style=flat-square"/></td>
+<td>Built <b>Socratic Mirror</b> — escalates questions across cognitive-depth levels instead of giving direct answers</td>
 </tr>
 <tr>
 <td><b>Summer Intern</b></td>
@@ -120,11 +137,10 @@ GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsb2005&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 </div>
 <br/>
-LeetCode Stats & Solving Timeline
+LeetCode Solving Timeline
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/akashsb2005?theme=dark" width="49%"/>
-<img src="https://leetcard.jacoblin.cool/akashsb2005?theme=dark&ext=heatmap" width="49%"/>
+<img src="https://leetcard.jacoblin.cool/akashsb2005?theme=dark&ext=heatmap" width="80%"/>
 </div>
 <br/>
 Contribution Snake
