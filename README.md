@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Akash%20Bagoji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Builder%20of%20Reflective%20%26%20Applied%20AI%20Systems&descAlignY=58&descSize=18" width="100%"/>
 <a href="https://www.linkedin.com/in/akash-bagoji-218671332">
@@ -156,10 +155,13 @@ View all repositories →
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsb2005&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 <br/>
-🏆 LeetCode Stats
+🏆 LeetCode Stats & Solving Timeline
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/akashsb2005?theme=dark&font=Baloo%202&extension=activity" width="60%"/>
+<img src="https://leetcard.jacoblin.cool/akashsb2005?theme=dark&font=Baloo%202" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/akashsb2005?theme=dark&font=Baloo%202&ext=heatmap" width="48%"/>
+<sub>Left: overall stats · Right: problem-solving activity heatmap (past 52 weeks)</sub>
+
 </div>
 <br/>
 🐍 Contribution Snake
