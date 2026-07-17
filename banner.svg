@@ -1,0 +1,43 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f1a"/>
+      <stop offset="100%" stop-color="#131a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b85ff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- subtle circuit-trace motif, right side -->
+  <g stroke="#2a3352" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M780 40 H900 V90 H1000"/>
+    <circle cx="1000" cy="90" r="5" fill="#8b85ff"/>
+    <path d="M820 220 H930 V160 H1040"/>
+    <circle cx="1040" cy="160" r="5" fill="#22d3ee"/>
+    <path d="M860 30 V0"/>
+    <path d="M1080 90 H1160"/>
+    <circle cx="1160" cy="90" r="4" fill="#8b85ff"/>
+    <path d="M1080 160 H1150 V200"/>
+    <circle cx="1150" cy="200" r="4" fill="#22d3ee"/>
+  </g>
+
+  <!-- name -->
+  <text x="70" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f5f7ff">
+    Akash Bagoji
+  </text>
+
+  <!-- accent underline -->
+  <rect x="72" y="150" width="350" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <!-- tagline -->
+  <text x="70" y="195" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#9aa5c7">
+    B.Tech, Computer Science (AI &amp; ML)
+  </text>
+  <text x="70" y="228" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#6b7699">
+    PES University · Applied AI Engineering
+  </text>
+</svg>
