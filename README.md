@@ -69,8 +69,8 @@ Industrial knowledge intelligence system built for ET AI Hackathon 2.0 (PS8).
 <tr>
 <td width="50%" valign="top">
 
-**[DocChat](https://github.com/akashsb2005/docchat)**
-RAG-based document Q&A system using sentence-transformers, pgvector, and Groq.
+**[SentinelAI]([https://github.com/akashsb2005/docchat](https://github.com/akashsb2005/SentinelAI))**
+AI-powered document & identity fraud detection — built for investigators, not against them.
 `Python` `RAG`
 
 </td>
