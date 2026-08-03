@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="Akash Bagoji"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B85FF&center=true&vCenter=true&width=700&lines=DevSpace+Tech+Intern+%40+BSERC+(ISRO);R%26D+Member+%40+PI+Labs%2C+PESU;Building+Graph+Neural+Networks+%2B+RAG+Systems;Currently%3A+SIH+2025+%E2%80%94+Epidemic+Early+Warning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B85FF&center=true&vCenter=true&width=700&lines=DevSpace+Tech+Intern+%40+BSERC+(ISRO);R%26D+Member+%40+PI+Labs%2C+PESU;Building+Graph+Neural+Networks+%2B+RAG+Systems;Shipping+production-shaped+AI+systems" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -24,7 +24,6 @@ role: DevSpace Tech Intern @ BSERC (ISRO)
 lab:  R&D Member @ PI Labs, PESU
 year: 3rd-year B.Tech, CSE (AI & ML) — PES University, RR Campus (2024–2028)
 focus: Graph Neural Networks · RAG systems · Applied ML in production shape
-building_now: SIH 2025 — predictive ML for water-borne disease early warning
 scholarships: [Reliance Foundation, FFE]
 competitive_programming: { leetcode: "200+", codeforces: "170+ (rating ~1120)" }
 ```
@@ -66,46 +65,62 @@ I don't build tutorial projects. Every repo below ships with tests, CI, real arc
 
 ## Featured Projects
 
-### 🕸️ [VigilNet](https://github.com/akashsb2005/VigilNet)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕸️ VigilNet
 **Real-time financial crime & AML network intelligence platform**
-- Graph Attention Networks over transaction graphs to surface laundering rings that rule-based systems miss
-- Explainable risk scoring — every flagged node ships with the subgraph that triggered it
-- Groq + LangChain auto-drafts Suspicious Activity Report (SAR) narratives from graph findings
 
-`Python` `PyTorch Geometric` `GNN` `FastAPI` `React` `Graph Algorithms`
+Graph Attention Networks over transaction graphs to surface laundering rings that rule-based systems miss. Explainable risk scoring ships the subgraph behind every flag, and Groq + LangChain auto-drafts SAR narratives from the findings.
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-### 🛡️ [SentinelAI](https://github.com/akashsb2005/SentinelAI)
+**[View Repo →](https://github.com/akashsb2005/VigilNet)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ SentinelAI
 **AI document & identity fraud detection platform**
-- EasyOCR + OpenCV + EfficientNet-B0 pipeline catching copy-move forgery via second-nearest-neighbor keypoint matching
-- Full FastAPI + PostgreSQL backend, React/TypeScript frontend, JWT auth
-- 10/10 tests green in CI — built and shipped in a single extended session
 
-`FastAPI` `PostgreSQL` `React` `TypeScript` `PyTorch` `OpenCV`
+EasyOCR + OpenCV + EfficientNet-B0 pipeline catching copy-move forgery via second-nearest-neighbor keypoint matching. Full FastAPI + PostgreSQL backend, React/TypeScript frontend, JWT auth — 10/10 tests green in CI.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 
 [![CI](https://github.com/akashsb2005/SentinelAI/actions/workflows/ci.yml/badge.svg)](https://github.com/akashsb2005/SentinelAI/actions)
+**[View Repo →](https://github.com/akashsb2005/SentinelAI)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🧪 [NexusQA](https://github.com/akashsb2005/NexusQA)
+#### 🧪 NexusQA
 **Enterprise-grade test automation framework**
-- UI (Selenium, Page Object Model, thread-safe parallel execution), REST API (REST Assured), and PostgreSQL-layer testing in one framework
-- Containerized Selenium Grid + Allure reporting, wired into GitHub Actions CI/CD
-- Every design decision — retry strategy, fallback locators, CI pipeline — documented and interview-defensible
 
-`Java` `Selenium` `TestNG` `Maven` `Docker` `Allure`
+UI (Selenium, Page Object Model, thread-safe parallel execution), REST API (REST Assured), and PostgreSQL-layer testing in one framework. Containerized Selenium Grid + Allure reporting, wired into GitHub Actions CI/CD — every design decision documented and interview-defensible.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/TestNG-EF2D5E?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 [![CI](https://github.com/akashsb2005/NexusQA/actions/workflows/ci.yml/badge.svg)](https://github.com/akashsb2005/NexusQA/actions)
+**[View Repo →](https://github.com/akashsb2005/NexusQA)**
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🧠 [Industrial Knowledge Intelligence](https://github.com/akashsb2005/industrial-knowledge-brain)
-**Multi-agent RAG system** — built for ET AI Hackathon 2.0 (PS8) with teammate Prasanna C M
-- ChromaDB + Groq (llama-3.3-70b-versatile) + LangChain over an industrial knowledge base
-- Expanded from 13 → 76 chunks via a custom Python ingestion pipeline
+#### 🧠 Industrial Knowledge Intelligence
+**Multi-agent RAG system**
 
-`Python` `RAG` `LangChain` `ChromaDB` `React`
+Built for ET AI Hackathon 2.0 (PS8) with teammate Prasanna C M. ChromaDB + Groq (llama-3.3-70b-versatile) + LangChain over an industrial knowledge base, expanded from 13 → 76 chunks via a custom Python ingestion pipeline.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+**[View Repo →](https://github.com/akashsb2005/industrial-knowledge-brain)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -143,13 +158,6 @@ I don't build tutorial projects. Every repo below ships with tests, CI, real arc
 </div>
 
 > Fully self-generated via GitHub Actions — metrics, streak stats, and the snake all update automatically. No third-party dashboards, no manual upkeep.
-
-<br/>
-
-## Currently Building
-
-- 🌊 **SIH 2025 (SIH25001)** — Smart Community Health Monitoring & Early Warning for water-borne diseases: time-series epidemiological modeling over sensor + reported-case data
-- 🎯 **GSoC 2027 prep** — deepening PyTorch internals and open-source contribution history, targeting scikit-learn / Hugging Face / PyTorch org tracks
 
 <br/>
 
