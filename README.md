@@ -2,92 +2,107 @@
 
 <img src="./banner.svg" width="100%" alt="Akash Bagoji"/>
 
-# Akash Bagoji
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8B85FF&center=true&vCenter=true&width=650&lines=R%26D+Member+%40+PI+Labs%2C+PESU;Applied+AI%2FML+Engineering;200%2B+Problems+Solved+on+LeetCode" alt="Typing SVG" />
 
-**AI/ML Engineer** · B.Tech CSE (AI & ML), PES University · DevSpace Tech Intern @ BSERC (ISRO)
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/akash-bagoji-218671332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bagojiakash75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/akashsb2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-<a href="https://codeforces.com/profile/akashsb2005"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akash-bagoji-218671332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/akashsb2005"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/u/akashsb2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:bagojiakash75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=akashsb2005&label=Profile%20Views&color=8B85FF&style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## Summary
+## About Me
 
-3rd-year Computer Science (AI & ML) student building production-shaped AI systems — not tutorial projects. Current focus: graph neural networks for financial crime detection, retrieval-augmented generation, and applied computer vision. Interning at BSERC (ISRO) as a DevSpace Tech Intern and serving as an R&D Member at PI Labs, PESU. Reliance Foundation and FFE Scholar.
+- 🎓 B.Tech, Computer Science (AI & ML), PES University, RR Campus (2024 – 2028)
+- 🔬 R&D Member @ **PI Labs, PESU** — building **Socratic Mirror**, an LLM-powered reflective tutoring tool
+- 💼 Summer Intern @ **BSERC (ISRO)** — Software / AI Engineering
+- ⚡ Former R&D Intern @ **Decode Labs** — Generative AI domain
+- 🏆 200+ problems solved on LeetCode, Reliance Foundation and FFE Scholar
+- 🛠️ Currently building **OpenSentry**, an autonomous vulnerability remediation platform
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,fastapi,postgres,git" />
+
+</div>
 
 <br/>
 
 ## Experience
 
-| Organization | Role |
-|---|---|
-| **BSERC (ISRO)** | DevSpace Tech Intern — Software / AI Engineering |
-| **PI Labs, PESU** | R&D Member — prompt architecture and conversational state management for an LLM-powered tutoring system |
-| **Decode Labs** | R&D Intern — Generative AI & Cybersecurity |
-
-<br/>
-
-## Technical Skills
-
-**Languages:** Java, Python, JavaScript, TypeScript, SQL
-**Backend:** FastAPI, PostgreSQL, SQLAlchemy, JWT Auth
-**Frontend:** React, Vite, TypeScript, Tailwind CSS
-**AI / ML:** PyTorch, PyTorch Geometric (GNN), EfficientNet, OpenCV, EasyOCR, LangChain, ChromaDB, Groq API, RAG pipelines
-**Testing & DevOps:** Selenium, TestNG, REST Assured, Docker, GitHub Actions CI/CD, Allure Reporting
-**Tools:** Git, Linux, VS Code
+<table>
+<tr><td width="140"><b>PI Labs, PESU</b></td><td>R&D Member<br/>Building <b>Socratic Mirror</b>: prompt architecture and conversational state management for an LLM-powered Socratic tutoring tool.</td></tr>
+<tr><td><b>BSERC (ISRO)</b></td><td>Summer Intern — Software / AI Engineering</td></tr>
+<tr><td><b>Decode Labs</b></td><td>R&D Intern — Generative AI<br/>AI / Software Engineering in the generative AI domain.</td></tr>
+</table>
 
 <br/>
 
 ## Featured Projects
 
-### [VigilNet](https://github.com/akashsb2005/VigilNet)
-**Real-time financial crime & AML network intelligence platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Applies Graph Attention Networks over transaction graphs to detect laundering patterns that rule-based systems miss. Produces explainable risk scores with the supporting subgraph, and uses Groq + LangChain to auto-draft Suspicious Activity Report (SAR) narratives.
+**[Socratic Mirror](https://github.com/akashsb2005/socratic-mirror)**
+LLM-powered Socratic tutoring platform (React/Vite/Tailwind + FastAPI + Supabase + Groq) that escalates learners through cognitive-depth levels instead of giving direct answers.
+`React` `FastAPI` `LLM`
 
-`Python` `PyTorch Geometric` `FastAPI` `React` `Graph Algorithms`
+</td>
+<td width="50%" valign="top">
+
+**[Industrial Knowledge Intelligence](https://github.com/akashsb2005/industrial-knowledge-intelligence)**
+Industrial knowledge intelligence system built for ET AI Hackathon 2.0 (PS8).
+`Python` `AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[DocChat](https://github.com/akashsb2005/docchat)**
+RAG-based document Q&A system using sentence-transformers, pgvector, and Groq.
+`Python` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+**[VulTriage](https://github.com/akashsb2005/vultriage)**
+LLM-powered vulnerability triage tool using regex scanning, GitPython, and Groq.
+`Python` `Security`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-### [SentinelAI](https://github.com/akashsb2005/SentinelAI)
-**AI-powered document and identity fraud detection platform**
-
-Full-stack fraud detection system combining EasyOCR, OpenCV, and EfficientNet-B0. Detects copy-move forgery using second-nearest-neighbor keypoint matching. Backend built on FastAPI and PostgreSQL with JWT authentication; frontend in React/TypeScript. CI pipeline passing 10/10 tests.
-
-`FastAPI` `PostgreSQL` `React` `TypeScript` `PyTorch` `OpenCV`
-[![CI](https://github.com/akashsb2005/SentinelAI/actions/workflows/ci.yml/badge.svg)](https://github.com/akashsb2005/SentinelAI/actions)
-
-<br/>
-
-### [NexusQA](https://github.com/akashsb2005/NexusQA)
-**Enterprise-grade test automation framework**
-
-Full-stack QA framework covering UI automation (Selenium, Page Object Model), REST API testing (REST Assured), and PostgreSQL-level validation. Runs on a containerized Selenium Grid with automated Allure reporting through GitHub Actions CI/CD.
-
-`Java` `Selenium` `TestNG` `Docker` `Maven` `Allure`
-[![CI](https://github.com/akashsb2005/NexusQA/actions/workflows/ci.yml/badge.svg)](https://github.com/akashsb2005/NexusQA/actions)
-
-<br/>
-
-### [Industrial Knowledge Intelligence](https://github.com/akashsb2005/industrial-knowledge-brain)
-**Multi-agent RAG system** — built with teammate Prasanna C M for ET AI Hackathon 2.0 (PS8)
-
-Retrieval-augmented generation system using ChromaDB, Groq (llama-3.3-70b-versatile), and LangChain over an industrial knowledge base, scaled from 13 to 76 chunks through a custom ingestion pipeline.
-
-`Python` `RAG` `LangChain` `ChromaDB` `React`
-
-<br/>
-
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashsb2005&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsb2005&layout=compact&theme=default&hide_border=true" height="160"/>
+<img src="./metrics.svg" width="100%"/>
+
+</div>
+
+> Fully self-generated via GitHub Actions — no third-party service, no downtime, updates itself daily. Setup in `metrics.yml`.
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/akashsb2005/akashsb2005/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -95,18 +110,17 @@ Retrieval-augmented generation system using ChromaDB, Groq (llama-3.3-70b-versat
 
 ## Achievements
 
-- 200+ problems solved on LeetCode
-- 170+ problems solved on Codeforces (rating ~1120)
-- Reliance Foundation Scholar
-- FFE Scholar
-- Team participant, ET AI Hackathon 2.0
-- Team participant, Bharatiya Antariksha Hackathon
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Reliance%20Foundation-Scholar-8B85FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FFE-Scholar-8B85FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ET%20AI%20Hackathon%202.0-Team%20Participant-22D3EE?style=for-the-badge"/>
+
+</div>
 
 <br/>
 
-## Contact
-
-- **Email:** bagojiakash75@gmail.com
-- **LinkedIn:** [akash-bagoji-218671332](https://www.linkedin.com/in/akash-bagoji-218671332)
-
-Open to applied AI/ML, backend, and research internship roles.
+<div align="center">
+<i>Open to applied AI/ML, backend, and research internship roles — let's talk.</i>
+</div>
