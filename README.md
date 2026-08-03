@@ -2,188 +2,111 @@
 
 <img src="./banner.svg" width="100%" alt="Akash Bagoji"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B85FF&center=true&vCenter=true&width=700&lines=DevSpace+Tech+Intern+%40+BSERC+(ISRO);R%26D+Member+%40+PI+Labs%2C+PESU;Building+Graph+Neural+Networks+%2B+RAG+Systems;Shipping+production-shaped+AI+systems" alt="Typing SVG" />
+# Akash Bagoji
 
-<br/><br/>
+**AI/ML Engineer** · B.Tech CSE (AI & ML), PES University · DevSpace Tech Intern @ BSERC (ISRO)
 
-<a href="https://www.linkedin.com/in/akash-bagoji-218671332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/akashsb2005"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/akashsb2005"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://leetcode.com/u/akashsb2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:bagojiakash75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=akashsb2005&label=Profile%20Views&color=8B85FF&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/akash-bagoji-218671332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bagojiakash75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/akashsb2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="https://codeforces.com/profile/akashsb2005"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## About Me
+## Summary
 
-```yaml
-role: DevSpace Tech Intern @ BSERC (ISRO)
-lab:  R&D Member @ PI Labs, PESU
-year: 3rd-year B.Tech, CSE (AI & ML) — PES University, RR Campus (2024–2028)
-focus: Graph Neural Networks · RAG systems · Applied ML in production shape
-scholarships: [Reliance Foundation, FFE]
-competitive_programming: { leetcode: "200+", codeforces: "170+ (rating ~1120)" }
-```
-
-I don't build tutorial projects. Every repo below ships with tests, CI, real architectural decisions, and documentation that survives an interview.
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,fastapi,pytorch,postgres,docker,git,vscode,linux" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-EF2D5E?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Groq%20Llama%203.3-000000?style=flat-square"/>
-
-</div>
+3rd-year Computer Science (AI & ML) student building production-shaped AI systems — not tutorial projects. Current focus: graph neural networks for financial crime detection, retrieval-augmented generation, and applied computer vision. Interning at BSERC (ISRO) as a DevSpace Tech Intern and serving as an R&D Member at PI Labs, PESU. Reliance Foundation and FFE Scholar.
 
 <br/>
 
 ## Experience
 
-<table>
-<tr><td width="180"><b>BSERC (ISRO)</b></td><td>DevSpace Tech Intern — Software / AI Engineering</td></tr>
-<tr><td><b>PI Labs, PESU</b></td><td>R&D Member — prompt architecture and conversational state management for an LLM-powered Socratic tutoring system</td></tr>
-<tr><td><b>Decode Labs</b></td><td>R&D Intern — Generative AI & Cybersecurity</td></tr>
-</table>
+| Organization | Role |
+|---|---|
+| **BSERC (ISRO)** | DevSpace Tech Intern — Software / AI Engineering |
+| **PI Labs, PESU** | R&D Member — prompt architecture and conversational state management for an LLM-powered tutoring system |
+| **Decode Labs** | R&D Intern — Generative AI & Cybersecurity |
+
+<br/>
+
+## Technical Skills
+
+**Languages:** Java, Python, JavaScript, TypeScript, SQL
+**Backend:** FastAPI, PostgreSQL, SQLAlchemy, JWT Auth
+**Frontend:** React, Vite, TypeScript, Tailwind CSS
+**AI / ML:** PyTorch, PyTorch Geometric (GNN), EfficientNet, OpenCV, EasyOCR, LangChain, ChromaDB, Groq API, RAG pipelines
+**Testing & DevOps:** Selenium, TestNG, REST Assured, Docker, GitHub Actions CI/CD, Allure Reporting
+**Tools:** Git, Linux, VS Code
 
 <br/>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🕸️ VigilNet
+### [VigilNet](https://github.com/akashsb2005/VigilNet)
 **Real-time financial crime & AML network intelligence platform**
 
-Graph Attention Networks over transaction graphs to surface laundering rings that rule-based systems miss. Explainable risk scoring ships the subgraph behind every flag, and Groq + LangChain auto-drafts SAR narratives from the findings.
+Applies Graph Attention Networks over transaction graphs to detect laundering patterns that rule-based systems miss. Produces explainable risk scores with the supporting subgraph, and uses Groq + LangChain to auto-draft Suspicious Activity Report (SAR) narratives.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+`Python` `PyTorch Geometric` `FastAPI` `React` `Graph Algorithms`
 
-**[View Repo →](https://github.com/akashsb2005/VigilNet)**
+<br/>
 
-</td>
-<td width="50%" valign="top">
+### [SentinelAI](https://github.com/akashsb2005/SentinelAI)
+**AI-powered document and identity fraud detection platform**
 
-#### 🛡️ SentinelAI
-**AI document & identity fraud detection platform**
+Full-stack fraud detection system combining EasyOCR, OpenCV, and EfficientNet-B0. Detects copy-move forgery using second-nearest-neighbor keypoint matching. Backend built on FastAPI and PostgreSQL with JWT authentication; frontend in React/TypeScript. CI pipeline passing 10/10 tests.
 
-EasyOCR + OpenCV + EfficientNet-B0 pipeline catching copy-move forgery via second-nearest-neighbor keypoint matching. Full FastAPI + PostgreSQL backend, React/TypeScript frontend, JWT auth — 10/10 tests green in CI.
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-
+`FastAPI` `PostgreSQL` `React` `TypeScript` `PyTorch` `OpenCV`
 [![CI](https://github.com/akashsb2005/SentinelAI/actions/workflows/ci.yml/badge.svg)](https://github.com/akashsb2005/SentinelAI/actions)
-**[View Repo →](https://github.com/akashsb2005/SentinelAI)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-#### 🧪 NexusQA
+### [NexusQA](https://github.com/akashsb2005/NexusQA)
 **Enterprise-grade test automation framework**
 
-UI (Selenium, Page Object Model, thread-safe parallel execution), REST API (REST Assured), and PostgreSQL-layer testing in one framework. Containerized Selenium Grid + Allure reporting, wired into GitHub Actions CI/CD — every design decision documented and interview-defensible.
+Full-stack QA framework covering UI automation (Selenium, Page Object Model), REST API testing (REST Assured), and PostgreSQL-level validation. Runs on a containerized Selenium Grid with automated Allure reporting through GitHub Actions CI/CD.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/TestNG-EF2D5E?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
+`Java` `Selenium` `TestNG` `Docker` `Maven` `Allure`
 [![CI](https://github.com/akashsb2005/NexusQA/actions/workflows/ci.yml/badge.svg)](https://github.com/akashsb2005/NexusQA/actions)
-**[View Repo →](https://github.com/akashsb2005/NexusQA)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 Industrial Knowledge Intelligence
-**Multi-agent RAG system**
-
-Built for ET AI Hackathon 2.0 (PS8) with teammate Prasanna C M. ChromaDB + Groq (llama-3.3-70b-versatile) + LangChain over an industrial knowledge base, expanded from 13 → 76 chunks via a custom Python ingestion pipeline.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-**[View Repo →](https://github.com/akashsb2005/industrial-knowledge-brain)**
-
-</td>
-</tr>
-</table>
 
 <br/>
 
-## GitHub Analytics
+### [Industrial Knowledge Intelligence](https://github.com/akashsb2005/industrial-knowledge-brain)
+**Multi-agent RAG system** — built with teammate Prasanna C M for ET AI Hackathon 2.0 (PS8)
+
+Retrieval-augmented generation system using ChromaDB, Groq (llama-3.3-70b-versatile), and LangChain over an industrial knowledge base, scaled from 13 to 76 chunks through a custom ingestion pipeline.
+
+`Python` `RAG` `LangChain` `ChromaDB` `React`
+
+<br/>
+
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashsb2005&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsb2005&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=akashsb2005&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=akashsb2005&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsb2005&layout=compact&theme=default&hide_border=true" height="160"/>
 
 </div>
-
-<br/>
-
-## Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akashsb2005&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/akashsb2005/akashsb2005/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-> Fully self-generated via GitHub Actions — metrics, streak stats, and the snake all update automatically. No third-party dashboards, no manual upkeep.
 
 <br/>
 
 ## Achievements
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Codeforces-170%2B%20Solved%20%7C%20Rating%20~1120-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reliance%20Foundation-Scholar-8B85FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FFE-Scholar-8B85FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SIH%202025-Team%20Participant-22D3EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ET%20AI%20Hackathon%202.0-Team%20Participant-22D3EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bharatiya%20Antariksha%20Hackathon-Participant-22D3EE?style=for-the-badge"/>
-
-</div>
+- 200+ problems solved on LeetCode
+- 170+ problems solved on Codeforces (rating ~1120)
+- Reliance Foundation Scholar
+- FFE Scholar
+- Team participant, ET AI Hackathon 2.0
+- Team participant, Bharatiya Antariksha Hackathon
 
 <br/>
 
-<div align="center">
+## Contact
 
-### 📫 Let's talk
+- **Email:** bagojiakash75@gmail.com
+- **LinkedIn:** [akash-bagoji-218671332](https://www.linkedin.com/in/akash-bagoji-218671332)
 
-<a href="https://www.linkedin.com/in/akash-bagoji-218671332"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bagojiakash75@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<i>Open to applied AI/ML, backend, and research internship roles.</i>
-
-</div>
+Open to applied AI/ML, backend, and research internship roles.
