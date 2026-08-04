@@ -60,25 +60,25 @@ LLM-powered Socratic tutoring platform (React/Vite/Tailwind + FastAPI + Supabase
 </td>
 <td width="50%" valign="top">
 
-**[Industrial Knowledge Intelligence](https://github.com/akashsb2005/industrial-knowledge-intelligence)**
-Industrial knowledge intelligence system built for ET AI Hackathon 2.0 (PS8).
-`Python` `AI`
+**[NexusQA](https://github.com/akashsb2005/NexusQA)**
+Enterprise-grade test automation framework — UI (Selenium, Page Object Model), REST API (REST Assured), and PostgreSQL validation, with Dockerized Selenium Grid and full CI/CD via GitHub Actions. 16 automated tests, 100% passing.
+`Java` `Selenium` `TestNG`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[DocChat](https://github.com/akashsb2005/docchat)**
-RAG-based document Q&A system using sentence-transformers, pgvector, and Groq.
-`Python` `RAG`
+**[Industrial Knowledge Brain](https://github.com/akashsb2005/industrial-knowledge-brain)**
+Multi-agent RAG system for industrial knowledge Q&A — FastAPI, ChromaDB, and Groq (Llama 3.3 70B), built for ET AI Hackathon 2.0 (PS8).
+`FastAPI` `RAG` `Groq`
 
 </td>
 <td width="50%" valign="top">
 
-**[VulTriage](https://github.com/akashsb2005/vultriage)**
-LLM-powered vulnerability triage tool using regex scanning, GitPython, and Groq.
-`Python` `Security`
+**[SentinelAI](https://github.com/akashsb2005/SentinelAI)**
+Production-grade AI document and identity fraud detection platform — OCR, computer vision, and EfficientNet-based forgery detection, with full CI passing.
+`FastAPI` `PostgreSQL` `React`
 
 </td>
 </tr>
