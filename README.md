@@ -60,8 +60,24 @@ LLM-powered Socratic tutoring platform (React/Vite/Tailwind + FastAPI + Supabase
 </td>
 <td width="50%" valign="top">
 
+**[SentinelAI](https://github.com/akashsb2005/SentinelAI)**
+AI-powered document & identity fraud detection platform — OCR, ELA, copy-move detection, and an evidence-based generalization evaluation harness. 10/10 tests passing, full CI/CD.
+`FastAPI` `PyTorch` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[VigilNet](https://github.com/akashsb2005/VigilNet)**
+AML & financial crime network intelligence platform — Graph Attention Networks (PyTorch Geometric) with GNNExplainer, LLM-drafted SAR narratives, and a FastAPI + React triage dashboard.
+`PyTorch Geometric` `FastAPI` `React`
+
+</td>
+<td width="50%" valign="top">
+
 **[NexusQA](https://github.com/akashsb2005/NexusQA)**
-Enterprise-grade test automation framework — UI (Selenium, Page Object Model), REST API (REST Assured), and PostgreSQL validation, with Dockerized Selenium Grid and full CI/CD via GitHub Actions. 16 automated tests, 100% passing.
+Enterprise-grade test automation framework — UI (Selenium, Page Object Model), REST API (REST Assured), and PostgreSQL validation, with Dockerized Selenium Grid and full CI/CD. 16 tests, 100% passing.
 `Java` `Selenium` `TestNG`
 
 </td>
@@ -76,9 +92,23 @@ Multi-agent RAG system for industrial knowledge Q&A — FastAPI, ChromaDB, and G
 </td>
 <td width="50%" valign="top">
 
-**[SentinelAI](https://github.com/akashsb2005/SentinelAI)**
-Production-grade AI document and identity fraud detection platform — OCR, computer vision, and EfficientNet-based forgery detection, with full CI passing.
-`FastAPI` `PostgreSQL` `React`
+**[Skill Gap Analyzer](https://github.com/akashsb2005/skill-gap-analyzer)**
+Upload a resume and job descriptions, get a grounded skill-gap breakdown, predicted interview questions, and a 4-week plan — FastAPI + Groq, with column-aware resume parsing.
+`FastAPI` `React` `Groq`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Ramdurga Basket](https://github.com/akashsb2005/Ramdurg_Basket)**
+A real grocery & spice delivery platform for a small-town store — English/Kannada toggle with tap-to-listen audio, live Leaflet delivery tracking, and a fully separate admin panel.
+`JavaScript` `Leaflet` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+<sub><a href="https://github.com/akashsb2005?tab=repositories">View all repositories →</a></sub>
 
 </td>
 </tr>
