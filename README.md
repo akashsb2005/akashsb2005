@@ -48,7 +48,7 @@ Ramdurga Basket A real grocery & spice delivery platform for a small-town store 
 
 </td> <td width="50%" valign="top">
 
-<sub><a href="https://github.com/akashsb2005?tab=repositories">View all repositories →</a></sub>
+
 
 </td> </tr> </table> <br/>
 GitHub Analytics
